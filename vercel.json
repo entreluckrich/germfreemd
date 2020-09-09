@@ -1,0 +1,33 @@
+{
+    "headers": [
+      {
+        "source": "/(.*)",
+        "headers" : [
+          {
+            "key" : "X-Content-Type-Options",
+            "value" : "nosniff"
+          },
+          {
+            "key" : "X-Frame-Options",
+            "value" : "DENY"
+          },
+          {
+            "key" : "X-XSS-Protection",
+            "value" : "1; mode=block"
+          },
+          {
+            "key" : "Referrer-Policy",
+            "value" : "no-referrer-when-downgrade"
+          },
+          {
+            "key" : "Feature-Policy",
+            "value" : "vibrate 'none'"
+          },
+          {
+            "key" : "Expect-CT",
+            "value" : "max-age=86400"
+          }
+        ]
+      }
+    ]
+  }
