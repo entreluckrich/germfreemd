@@ -25,7 +25,7 @@
           },
             {
             "key" : "Permissions-Policy",
-            "value" : "geolocation=(self "https://entreluk.com"), microphone=()"
+            "value" : "geolocation=(self "https://germfreemd.com"), microphone=()"
           },
           {
             "key" : "Expect-CT",
