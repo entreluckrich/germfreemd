@@ -1,0 +1,40 @@
+//main color
+
+.pColor{
+    color: $pColor;
+}
+.cf{
+    color: $cf;
+}
+
+//theme color
+
+.cPrimary{
+    color: $cPrimary;
+}
+
+.cPrimary_bg{
+    background-color: $cPrimary;
+}
+
+.cPdark_bg{
+    background-color: $cPdark;
+}
+
+.cp_bo{
+    border-color: $cPrimary;
+}
+
+
+
+.trns{
+    @include transition(.4s);
+}
+
+.flex_center{
+    @include display-flex(flex);
+    @include flex-column(column);
+    @include justify-content(center);
+}
+
+

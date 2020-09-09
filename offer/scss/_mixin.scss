@@ -1,0 +1,50 @@
+@mixin transition($transition) {
+    -webkit-transition: $transition;
+    transition: $transition;
+}
+@mixin transition-duration($transition-duration) {
+    -webkit-transition-duration: $transition-duration;
+    transition-duration: $transition-duration;
+}
+@mixin transition-delay($transition-delay) {
+    -webkit-transition-duration: $transition-delay;
+    transition-duration: $transition-delay;
+}
+@mixin transition-timing-function($transition-timing-function) {
+    -webkit-transition-duration: $transition-timing-function;
+    transition-duration: $transition-timing-function;
+}
+@mixin display-flex($flex) {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: -webkit-flex;
+    display: flex;
+}
+
+@mixin inline-flex($flex){
+    display: -webkit-inline-box;
+    display: -webkit-inline-flex;
+    display: -ms-inline-flexbox;
+    display: inline-flex;
+}
+
+@mixin flex-column($column) {
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    -ms-flex-direction: column;
+    -webkit-flex-direction: column;
+            flex-direction: column;
+}
+
+@mixin justify-content($value) {
+    -webkit-box-pack: $value;
+    -ms-flex-pack: $value;
+    -webkit-justify-content: $value;
+            justify-content: $value;
+}
+
+@mixin appearance($none){
+   -webkit-appearance : $none;
+      -moz-appearance : $none;
+           appearance : $none;
+}

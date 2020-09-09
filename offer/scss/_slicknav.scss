@@ -1,0 +1,171 @@
+//colors
+$color_0: rgba(0, 0, 0, 0.10);
+
+.slicknav_menu {
+	font-size: 16px;
+	box-sizing: border-box;
+    display: none;
+    @media #{$mediaMax991}{
+        display: block;
+    }
+	* {
+		box-sizing: border-box;
+	}
+	.slicknav_menutxt {
+		color: $cf;
+		font-weight: bold;
+	}
+	.slicknav_icon-bar {
+		background-color: $cf;
+	}
+}
+.slicknav_btn {
+	text-decoration: none;
+	@extend .cPrimary_bg;
+    margin: 6px 0;
+    border-radius: 4px;
+}
+.slicknav_nav {
+	color: $cf;
+	margin: 0;
+	padding: 0;
+	font-size: 0.875em;
+	list-style: none;
+	overflow: hidden;
+	@extend .cPrimary_bg;
+    position: absolute;
+    right: 15px;
+    top: 50px;
+    min-width: 280px;
+    border-radius: 3px;
+	ul {
+		list-style: none;
+		overflow: hidden;
+		padding: 0;
+        margin: 0 0 0 5px;
+        border-radius: 5px;
+        background-color: $color_0!important;
+	}
+	.slicknav_row {
+		padding: 5px 10px;
+		&:hover {
+	        @extend .cPdark_bg;
+			color: $cf;
+		}
+	}
+	a {
+		padding: 5px 10px;
+		text-decoration: none;
+		color: $cf;
+		&:hover {
+	        @extend .cPdark_bg;
+			color: $cf;
+		}
+	}
+	.slicknav_txtnode {
+		margin-left: 15px;
+	}
+	.slicknav_item a {
+		padding: 0;
+		margin: 0;
+	}
+	.slicknav_parent-link a {
+		padding: 0;
+		margin: 0;
+	}
+}
+.slicknav_brand {
+	color: $cf;
+	font-size: 18px;
+	line-height: 30px;
+	padding: 7px 12px;
+	height: 44px;
+}
+.slicknav_btn {
+	position: relative;
+	display: block;
+	vertical-align: middle;
+	float: right;
+	padding: 0.438em 0.625em 0.438em 0.625em;
+	line-height: 1.125em;
+	cursor: pointer;
+	.slicknav_icon-bar + .slicknav_icon-bar {
+		margin-top: 0.188em;
+	}
+}
+.slicknav_menu {
+	*zoom: 1;
+	.slicknav_menutxt {
+		display: block;
+		line-height: 1.188em;
+		float: left;
+	}
+	.slicknav_icon {
+		float: left;
+        width: 1.125em;
+        height: 0.875em;
+		margin: 0.188em 0 0 0.438em;
+        &:before { // Firefox Mobile v42 bugfix
+            background: transparent;
+            width: 1.125em;
+            height: 0.875em;
+            display: block;
+            content: "";
+            position: absolute;
+        }
+	}
+	.slicknav_no-text {
+		margin: 0;
+	}
+	.slicknav_icon-bar {
+		display: block;
+		width: 1.125em;
+		height: 0.125em;
+		-webkit-border-radius: 1px;
+		-moz-border-radius: 1px;
+		border-radius: 1px;
+		-webkit-box-shadow: 0 1px 0 rgba(0, 0, 0, 0.25);
+		-moz-box-shadow: 0 1px 0 rgba(0, 0, 0, 0.25);
+		box-shadow: 0 1px 0 rgba(0, 0, 0, 0.25);
+	}
+	&:before {
+		content: " ";
+		display: table;
+	}
+	&:after {
+		content: " ";
+		display: table;
+		clear: both;
+	}
+}
+.slicknav_nav {
+	clear: both;
+	ul {
+		display: block;
+	}
+	li {
+		display: block;
+	}
+	.slicknav_arrow {
+		font-size: 0.8em;
+		margin: 0 0 0 0.4em;
+	}
+	.slicknav_item {
+		cursor: pointer;
+		a {
+			display: inline;
+		}
+	}
+	.slicknav_row {
+		display: block;
+	}
+	a {
+		display: block;
+	}
+	.slicknav_parent-link a {
+		display: inline;
+	}
+}
+.slicknav_brand {
+	float: left;
+}
