@@ -23,10 +23,6 @@
             "key" : "Feature-Policy",
             "value" : "geolocation 'self' https://germfreemd.com; microphone 'none'"
           },
-            {
-            "key" : "Permissions-Policy",
-            "value" : "geolocation=(self "https://germfreemd.com"), microphone=()"
-          },
           {
             "key" : "Expect-CT",
             "value" : "max-age=86400"
