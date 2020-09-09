@@ -1,0 +1,36 @@
+/* START GENERIC */
+body{
+	font-family:Roboto;
+	font-weight:300;
+	}
+.item.content h1{
+		font-size:42px;
+		line-height:130%;
+		margin-bottom:25px;
+		font-weight:300;
+		}
+.item.content h3{
+		font-size:20px;
+		line-height:150%;
+		margin-bottom:15px;
+		font-weight:300;
+		}				
+.item.content .item.content .white{
+		color:#fff;
+		}
+.item.content .black{
+		color:#000;
+		}
+.item.content .white-transparent{
+		color:rgba(255,255,255,0.6);
+		}
+.item.content .black-transparent{
+		color:rgba(0,0,0,0.6);
+		}
+.item.content .bold{
+		font-weight:600;
+		}	
+		
+					
+/* END GENERIC */
+

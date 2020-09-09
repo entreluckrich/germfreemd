@@ -1,0 +1,17 @@
+/* Error: expected "%".
+ *      ,
+ * 1229 |   .kartra_form_wrapper[class*="kartra_checkout_"] .kartra_checkout_form 0%{
+ *      |    ^
+ *      '
+ *   scss\css\checkout_page.css 1229:4  root stylesheet */
+
+body::before {
+  font-family: "Source Code Pro", "SF Mono", Monaco, Inconsolata, "Fira Mono",
+      "Droid Sans Mono", monospace, monospace;
+  white-space: pre;
+  display: block;
+  padding: 1em;
+  margin-bottom: 1em;
+  border-bottom: 2px solid black;
+  content: 'Error: expected "%".\a      \2577 \a 1229 \2502    .kartra_form_wrapper[class*="kartra_checkout_"] .kartra_checkout_form 0%{\d\a      \2502     ^\a      \2575 \a   scss\\css\\checkout_page.css 1229:4  root stylesheet';
+}

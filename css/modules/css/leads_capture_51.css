@@ -1,0 +1,22 @@
+.leads_capture_51 .kartra_page_optin_form .kartra_optin_wrapper label.kartra_optin_clabel {
+  color: rgba(0, 0, 0, 0.6);
+}
+
+.leads_capture_51 .kartra_page_optin_form .kartra_optin_wrapper .kartra_optin_controls.kartra_optin_icon i.kartra_optin_i {
+  color: rgba(0, 0, 0, 0.5);
+  opacity: 0.7;
+}
+
+.leads_capture_51 .kartra_page_optin_form .kartra_optin_wrapper .kartra_optin_controls .kartra_optin_ti {
+  border-color: rgba(0, 0, 0, 0.2);
+  color: rgba(0, 0, 0, 0.5);
+  background: white;
+}
+
+.leads_capture_51 .kartra_page_optin_form .kartra_optin_wrapper button.dropdown-toggle {
+  border-color: rgba(0, 0, 0, 0.2);
+  color: rgba(0, 0, 0, 0.5);
+  background: white;
+}
+
+/*# sourceMappingURL=leads_capture_51.css.map */

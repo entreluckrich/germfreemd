@@ -1,0 +1,302 @@
+.leads_capture_39 .kartra_page_optin_form .kartra_optin_wrapper .kartra_optin_media_block {
+  margin-top: 0px !important;
+}
+
+.leads_capture_39 .kartra_page_optin_form .kartra_optin_wrapper .kartra_optin_media_block.logo_div {
+  margin-bottom: 20px;
+}
+
+.leads_capture_39 .kartra_page_optin_form .kartra_optin_wrapper .kartra_optin_media_block.logo_div img {
+  display: inline-block;
+}
+
+.leads_capture_39 .kartra_page_optin_form .kartra_optin_wrapper .kartra_optin_separator {
+  margin: 0px 0 !important;
+}
+
+.leads_capture_39 .kartra_page_optin_form .kartra_optin_wrapper .kartra_optin_separator > hr {
+  margin: 0px 0 !important;
+}
+
+.leads_capture_39 .kartra_page_optin_form .kartra_optin_wrapper .kartra_optin_c2_40 {
+  width: 40%;
+}
+
+.leads_capture_39 .kartra_page_optin_form .kartra_optin_wrapper .kartra_optin_c2_60 {
+  width: 60%;
+}
+
+.leads_capture_39 .kartra_page_optin_form .kartra_optin_wrapper div.kartra_optin_h3 {
+  font-family: 'Oswald', sans-serif;
+  font-size: 32px;
+  color: #000;
+  text-align: center;
+  font-weight: 400;
+}
+
+.leads_capture_39 .kartra_page_optin_form .kartra_optin_wrapper div.kartra_optin_p {
+  color: #009DDC;
+  text-align: center;
+  font-size: 20px;
+}
+
+.leads_capture_39 .kartra_page_optin_form .kartra_optin_wrapper .kartra_optin_clabel {
+  color: rgba(255, 255, 255, 0.8);
+  font-size: 16px;
+  padding: 5px 0px 5px 0 !important;
+}
+
+.leads_capture_39 .kartra_page_optin_form .kartra_optin_wrapper .kartra_optin_cg p {
+  color: rgba(255, 255, 255, 0.8);
+}
+
+.leads_capture_39 .kartra_page_optin_form .kartra_optin_wrapper .kartra_optin_cg.kartra_optin_privacy-block {
+  text-align: center;
+}
+
+.leads_capture_39 .kartra_page_optin_form .kartra_optin_wrapper .kartra_optin_cg.kartra_optin_privacy-block .kartra-optin-lineico-lock-close-1 {
+  color: rgba(255, 255, 255, 0.8);
+}
+
+.leads_capture_39 .kartra_page_optin_form .kartra_optin_wrapper .kartra_optin_asterisk {
+  color: red;
+}
+
+.leads_capture_39 .kartra_page_optin_form .kartra_optin_wrapper .ez-radio,
+.leads_capture_39 .kartra_page_optin_form .kartra_optin_wrapper .ez-checkbox {
+  border-color: rgba(0, 0, 0, 0.2);
+  background-color: white;
+}
+
+.leads_capture_39 .kartra_page_optin_form .kartra_optin_wrapper .ez-radio.ez-selected::before {
+  background: rgba(0, 0, 0, 0.6);
+}
+
+.leads_capture_39 .kartra_page_optin_form .kartra_optin_wrapper .ez-checkbox.ez-checked::before {
+  color: rgba(0, 0, 0, 0.6);
+}
+
+.leads_capture_39 .kartra_page_optin_form .kartra_optin_wrapper .kartra_optin_slctpckr {
+  width: 100%;
+}
+
+.leads_capture_39 .kartra_page_optin_form .kartra_optin_wrapper .kartra_optin_slctpckr.btn-group .btn {
+  background: rgba(126, 189, 56, 0.35);
+  border-color: #fff;
+  color: #fff;
+}
+
+.leads_capture_39 .kartra_page_optin_form .kartra_optin_wrapper .kartra_optin_slctpckr.btn-group .btn .filter-option {
+  text-align: left;
+}
+
+.leads_capture_39 .kartra_page_optin_form .kartra_optin_wrapper .kartra_optin_slctpckr.btn-group.open .btn.dropdown-toggle {
+  border: 1px solid #fff;
+  background: rgba(126, 189, 56, 0);
+}
+
+.leads_capture_39 .kartra_page_optin_form .kartra_optin_wrapper .kartra_optin_controls.kartra_optin_icon i.kartra_optin_i {
+  color: rgba(0, 0, 0, 0.5);
+  opacity: 0.7;
+}
+
+.leads_capture_39 .kartra_page_optin_form .kartra_optin_wrapper .kartra_optin_controls .kartra_optin_btn-group.kartra_optin_bootstrap-select .kartra_optin_btn.kartra_optin_dropdown-toggle {
+  border: 1px solid rgba(0, 0, 0, 0.2);
+  background: white;
+  color: rgba(0, 0, 0, 0.5);
+  text-shadow: none;
+}
+
+.leads_capture_39 .kartra_page_optin_form .kartra_optin_wrapper label.kartra_optin_clabel {
+  font-size: 16px;
+  color: rgba(255, 255, 255, 0.8);
+}
+
+.leads_capture_39 .kartra_page_optin_form .kartra_optin_wrapper label.kartra_optin_field-label {
+  color: rgba(0, 0, 0, 0.6);
+  position: relative;
+  top: -2px;
+}
+
+.leads_capture_39 .kartra_page_optin_form .kartra_optin_wrapper label.kartra_optin_field-label > a {
+  color: rgba(0, 0, 0, 0.6);
+  display: inline-block;
+  cursor: pointer;
+  font-weight: 300;
+}
+
+.leads_capture_39 .kartra_page_optin_form .kartra_optin_wrapper label.kartra_optin_field-label > a:hover {
+  color: rgba(0, 0, 0, 0.6);
+}
+
+.leads_capture_39 .kartra_page_optin_form .kartra_optin_wrapper button.kartra_optin_submit_btn {
+  background: #3BBDC6;
+  box-shadow: none;
+  color: #fff;
+  font-weight: 300;
+  text-transform: uppercase;
+  position: relative;
+  cursor: pointer;
+}
+
+.leads_capture_39 .kartra_page_optin_form .kartra_optin_wrapper button:hover, .leads_capture_39 .kartra_page_optin_form .kartra_optin_wrapper button:focus {
+  outline: 0px;
+}
+
+.leads_capture_39 .kartra_page_optin_form .kartra_optin_wrapper .kartra_optin_custom_div {
+  /*        background: rgba(0, 0, 0, 0.05);
+                margin: 0 20px;
+                padding: 20px 0 0 0;
+                border-radius: 3px;
+                margin-bottom: 20px;*/
+}
+
+.leads_capture_39 .kartra_page_optin_form .kartra_optin_wrapper textarea.kartra_optin_ta {
+  background: #fff;
+  border: 1px solid rgba(0, 0, 0, 0.2);
+  box-shadow: none;
+  color: rgba(0, 0, 0, 0.5);
+}
+
+.leads_capture_39 .kartra_page_optin_form .kartra_optin_wrapper textarea.kartra_optin_ta::-webkit-input-placeholder {
+  color: rgba(0, 0, 0, 0.5);
+}
+
+.leads_capture_39 .kartra_page_optin_form .kartra_optin_wrapper textarea.kartra_optin_ta:-moz-placeholder {
+  /* Firefox 18- */
+  color: rgba(0, 0, 0, 0.5);
+}
+
+.leads_capture_39 .kartra_page_optin_form .kartra_optin_wrapper textarea.kartra_optin_ta::-moz-placeholder {
+  /* Firefox 19+ */
+  color: rgba(0, 0, 0, 0.5);
+}
+
+.leads_capture_39 .kartra_page_optin_form .kartra_optin_wrapper textarea.kartra_optin_ta:-ms-input-placeholder {
+  color: rgba(0, 0, 0, 0.5);
+}
+
+.leads_capture_39 .kartra_page_optin_form .kartra_optin_wrapper input.kartra_optin_ti {
+  border-color: rgba(0, 0, 0, 0.2);
+  color: rgba(0, 0, 0, 0.5);
+  background: white;
+}
+
+.leads_capture_39 .kartra_page_optin_form .kartra_optin_wrapper input.kartra_optin_ti::-webkit-input-placeholder {
+  color: rgba(0, 0, 0, 0.5);
+}
+
+.leads_capture_39 .kartra_page_optin_form .kartra_optin_wrapper input.kartra_optin_ti:-moz-placeholder {
+  /* Firefox 18- */
+  color: rgba(0, 0, 0, 0.5);
+}
+
+.leads_capture_39 .kartra_page_optin_form .kartra_optin_wrapper input.kartra_optin_ti::-moz-placeholder {
+  /* Firefox 19+ */
+  color: rgba(0, 0, 0, 0.5);
+}
+
+.leads_capture_39 .kartra_page_optin_form .kartra_optin_wrapper input.kartra_optin_ti:-ms-input-placeholder {
+  color: rgba(0, 0, 0, 0.5);
+}
+
+.leads_capture_39 .kartra_page_optin_form .kartra_optin_wrapper .kartra_optin_notice {
+  display: inline-block;
+}
+
+.leads_capture_39 .kartra_page_optin_form .kartra_optin_wrapper .kartra_optin_notice p {
+  text-align: left;
+  padding-top: 2px;
+  margin-bottom: 0px;
+}
+
+@media (min-width: 0px) and (max-width: 480px) {
+  .kartra_page_optin_form .kartra_optin_wrapper div .kartra_optin_h3 {
+    font-size: 24px;
+  }
+  .kartra_page_optin_form .kartra_optin_wrapper div .kartra_optin_h2 {
+    font-size: 18px;
+  }
+  .kartra_page_optin_form .kartra_optin_wrapper div .kartra_optin_h4 {
+    font-size: 20px;
+  }
+  .kartra_page_optin_form .kartra_optin_wrapper div .kartra_optin_p {
+    font-size: 18px;
+  }
+  .kartra_page_optin_form .kartra_optin_wrapper .kartra_optin_controls.kartra_optin_input_small input.kartra_optin_ti, .kartra_page_optin_form .kartra_optin_wrapper .kartra_optin_controls.kartra_optin_input_medium input.kartra_optin_ti, .kartra_page_optin_form .kartra_optin_wrapper .kartra_optin_controls.kartra_optin_input_large input.kartra_optin_ti {
+    padding: 8px 10px;
+    font-size: 15px;
+    height: 40px;
+    line-height: 1.3;
+  }
+  .kartra_page_optin_form .kartra_optin_wrapper .kartra_optin_controls.kartra_optin_input_small textarea.kartra_optin_ta, .kartra_page_optin_form .kartra_optin_wrapper .kartra_optin_controls.kartra_optin_input_medium textarea.kartra_optin_ta, .kartra_page_optin_form .kartra_optin_wrapper .kartra_optin_controls.kartra_optin_input_large textarea.kartra_optin_ta {
+    height: 80px;
+    line-height: 1.3;
+    padding: 8px;
+    text-align: left;
+    font-size: 15px;
+    font-weight: 400;
+  }
+  .kartra_page_optin_form .kartra_optin_wrapper .kartra_optin_controls.kartra_optin_input_small.kartra_optin_icon textarea.kartra_optin_ta, .kartra_page_optin_form .kartra_optin_wrapper .kartra_optin_controls.kartra_optin_input_medium.kartra_optin_icon textarea.kartra_optin_ta, .kartra_page_optin_form .kartra_optin_wrapper .kartra_optin_controls.kartra_optin_input_large.kartra_optin_icon textarea.kartra_optin_ta {
+    padding-left: 40px;
+  }
+  .kartra_page_optin_form .kartra_optin_wrapper .kartra_optin_controls.kartra_optin_input_small.kartra_optin_icon input.kartra_optin_ti, .kartra_page_optin_form .kartra_optin_wrapper .kartra_optin_controls.kartra_optin_input_medium.kartra_optin_icon input.kartra_optin_ti, .kartra_page_optin_form .kartra_optin_wrapper .kartra_optin_controls.kartra_optin_input_large.kartra_optin_icon input.kartra_optin_ti {
+    padding-left: 40px;
+  }
+  .kartra_page_optin_form .kartra_optin_wrapper .kartra_optin_controls.kartra_optin_input_small.kartra_optin_icon i.kartra_optin_i, .kartra_page_optin_form .kartra_optin_wrapper .kartra_optin_controls.kartra_optin_input_medium.kartra_optin_icon i.kartra_optin_i, .kartra_page_optin_form .kartra_optin_wrapper .kartra_optin_controls.kartra_optin_input_large.kartra_optin_icon i.kartra_optin_i {
+    position: absolute;
+    bottom: 9px;
+    left: 12px;
+    text-align: right;
+    z-index: 0;
+    font-size: 19px;
+    display: block;
+    line-height: 1;
+  }
+  .kartra_page_optin_form .kartra_optin_wrapper .kartra_optin_controls.kartra_optin_input_small.kartra_optin_icon .kartra_optin_btn-group.kartra_optin_bootstrap-select .kartra_optin_filter-option,
+  .kartra_page_optin_form .kartra_optin_wrapper .kartra_optin_controls.kartra_optin_input_small.kartra_optin_icon .kartra_optin_btn-group.kartra_optin_bootstrap-select .filter-option, .kartra_page_optin_form .kartra_optin_wrapper .kartra_optin_controls.kartra_optin_input_medium.kartra_optin_icon .kartra_optin_btn-group.kartra_optin_bootstrap-select .kartra_optin_filter-option,
+  .kartra_page_optin_form .kartra_optin_wrapper .kartra_optin_controls.kartra_optin_input_medium.kartra_optin_icon .kartra_optin_btn-group.kartra_optin_bootstrap-select .filter-option, .kartra_page_optin_form .kartra_optin_wrapper .kartra_optin_controls.kartra_optin_input_large.kartra_optin_icon .kartra_optin_btn-group.kartra_optin_bootstrap-select .kartra_optin_filter-option,
+  .kartra_page_optin_form .kartra_optin_wrapper .kartra_optin_controls.kartra_optin_input_large.kartra_optin_icon .kartra_optin_btn-group.kartra_optin_bootstrap-select .filter-option {
+    padding-left: 30px;
+  }
+  .kartra_page_optin_form .kartra_optin_wrapper .kartra_optin_controls.kartra_optin_input_small .kartra_optin_asterisk, .kartra_page_optin_form .kartra_optin_wrapper .kartra_optin_controls.kartra_optin_input_medium .kartra_optin_asterisk, .kartra_page_optin_form .kartra_optin_wrapper .kartra_optin_controls.kartra_optin_input_large .kartra_optin_asterisk {
+    top: 4px;
+  }
+  .kartra_page_optin_form .kartra_optin_wrapper .kartra_optin_controls.kartra_optin_input_small .kartra_optin_bootstrap-select .kartra_optin_dropdown-toggle, .kartra_page_optin_form .kartra_optin_wrapper .kartra_optin_controls.kartra_optin_input_medium .kartra_optin_bootstrap-select .kartra_optin_dropdown-toggle, .kartra_page_optin_form .kartra_optin_wrapper .kartra_optin_controls.kartra_optin_input_large .kartra_optin_bootstrap-select .kartra_optin_dropdown-toggle {
+    font-size: 14px;
+    padding: 9px 10px;
+    line-height: 20px;
+  }
+  .kartra_page_optin_form .kartra_optin_wrapper .kartra_optin_controls.kartra_optin_ta_small textarea.kartra_optin_ta, .kartra_page_optin_form .kartra_optin_wrapper .kartra_optin_controls.kartra_optin_ta_medium textarea.kartra_optin_ta, .kartra_page_optin_form .kartra_optin_wrapper .kartra_optin_controls.kartra_optin_ta_large textarea.kartra_optin_ta {
+    height: 80px;
+    line-height: 1.3;
+    padding: 8px;
+    text-align: left;
+    font-size: 20px;
+    font-weight: 400;
+  }
+  .kartra_page_optin_form .kartra_optin_wrapper .kartra_optin_controls.kartra_optin_ta_small.kartra_optin_icon textarea.kartra_optin_ta, .kartra_page_optin_form .kartra_optin_wrapper .kartra_optin_controls.kartra_optin_ta_medium.kartra_optin_icon textarea.kartra_optin_ta, .kartra_page_optin_form .kartra_optin_wrapper .kartra_optin_controls.kartra_optin_ta_large.kartra_optin_icon textarea.kartra_optin_ta {
+    padding-left: 50px;
+  }
+  .kartra_page_optin_form .kartra_optin_wrapper .kartra_optin_controls.kartra_optin_ta_small.kartra_optin_icon i.kartra_optin_i, .kartra_page_optin_form .kartra_optin_wrapper .kartra_optin_controls.kartra_optin_ta_medium.kartra_optin_icon i.kartra_optin_i, .kartra_page_optin_form .kartra_optin_wrapper .kartra_optin_controls.kartra_optin_ta_large.kartra_optin_icon i.kartra_optin_i {
+    position: absolute;
+    top: 11px;
+    left: 12px;
+    text-align: right;
+    z-index: 0;
+    color: #aaa;
+    font-size: 24px;
+    display: block;
+    line-height: 1;
+  }
+  .kartra_page_optin_form .kartra_optin_wrapper .kartra_optin_controls.kartra_optin_ta_small .kartra_optin_asterisk, .kartra_page_optin_form .kartra_optin_wrapper .kartra_optin_controls.kartra_optin_ta_medium .kartra_optin_asterisk, .kartra_page_optin_form .kartra_optin_wrapper .kartra_optin_controls.kartra_optin_ta_large .kartra_optin_asterisk {
+    top: 4px;
+    font-size: 20px;
+  }
+  .kartra_page_optin_form .kartra_optin_wrapper a.kartra_optin_submit_btn.kartra_optin_btn_small, .kartra_page_optin_form .kartra_optin_wrapper a.kartra_optin_submit_btn.kartra_optin_btn_medium, .kartra_page_optin_form .kartra_optin_wrapper a.kartra_optin_submit_btn.kartra_optin_btn_large, .kartra_page_optin_form .kartra_optin_wrapper button.kartra_optin_submit_btn.kartra_optin_btn_small, .kartra_page_optin_form .kartra_optin_wrapper button.kartra_optin_submit_btn.kartra_optin_btn_medium, .kartra_page_optin_form .kartra_optin_wrapper button.kartra_optin_submit_btn.kartra_optin_btn_large {
+    line-height: 1.3;
+    font-size: 20px;
+    padding: 12px 12px;
+    font-weight: 400;
+  }
+}

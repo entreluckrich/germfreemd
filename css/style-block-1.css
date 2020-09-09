@@ -1,0 +1,69 @@
+/* START BLOCK 1 */
+
+.item.content.block_1 {
+    background: #000;
+}
+
+.item.content.block_1 .background_changer {
+    background-image: url("..images//background-wallpapers-32.jpg");
+    opacity: 0.5;
+}
+
+.item.content.block_1 .background_changer_overlay {
+    background-image: url("../images/bg_pattern_hexagon.png");
+}
+
+.item.content.block_1 .home-intro-subscribe {
+    padding: 100px 0px;
+    text-align: center;
+}
+
+.item.content.block_1 .home-intro-subscribe h1 {
+    font-size: 52px;
+    color: #fff;
+}
+
+.item.content.block_1 .home-intro-subscribe h3 {
+    font-size: 20px;
+    margin-bottom: 30px;
+}
+
+@media (min-width: 1200px) {}
+
+@media (min-width: 992px) and (max-width: 1199px) {}
+
+@media (max-width: 991px) {}
+
+@media (max-width: 767px) {
+    .item.content.block_1 .home-intro-subscribe {
+        padding: 50px 0px;
+        text-align: center;
+    }
+
+    .item.content.block_1 .home-intro-subscribe h1 {
+        font-size: 36px;
+    }
+
+    .item.content.block_1 .home-intro-subscribe h3 {
+        font-size: 20px;
+        margin-bottom: 30px;
+    }
+}
+
+@media (max-width: 480px) {
+    .item.content.block_1 .home-intro-subscribe {
+        padding: 30px 0px;
+        text-align: center;
+    }
+
+    .item.content.block_1 .home-intro-subscribe h1 {
+        font-size: 28px;
+    }
+
+    .item.content.block_1 .home-intro-subscribe h3 {
+        font-size: 16px;
+        margin-bottom: 30px;
+    }
+}
+
+/* END BLOCK 1 */

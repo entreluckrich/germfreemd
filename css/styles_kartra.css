@@ -1,0 +1,93 @@
+@media (min-width: 992px){
+.container{
+	width: auto;
+
+}
+}
+
+
+body{
+	background: none;
+	
+}
+
+#page{
+	position: relative;
+	background: #fff;
+
+}
+
+.item.content, .item.portfolio, .item.team, .item.pricing, .item.contact {
+padding-top: 20px;
+padding-bottom: 20px;
+}
+
+
+
+.placeholder_div_inner{
+	display: inline-block;
+	vertical-align: top;
+}
+
+
+.placeholder_div img{
+	padding: 20px;
+	max-height: 250px;
+	/*max-width: 340px;*/
+}
+
+p.optin_form_empty{
+	position: absolute;
+	top: 0;
+	bottom: 0;
+	left: 0;
+	right: 0;
+	margin-bottom: 0;
+	background: rgba(255,255,255,0.5);
+	transition: all 0.3s ease-in-out 0s;
+}
+
+p.optin_form_empty:hover{
+	background: rgba(255,255,255,0.1);
+}
+
+	p.optin_form_empty > span{
+		transition: all 0.3s ease-in-out 0s;
+		position: absolute;
+		background: rgba(0,0,0,0.5);
+		padding: 10px 15px;
+		width: 180px;
+		text-transform: uppercase;
+		left: 50%;
+		margin-left: -90px;
+		font-size: 16px;
+		line-height: 140%;
+		top: 50%;
+		border-radius: 3px;
+		color:#fff;
+		margin-top: -32px;
+		text-align: center;
+
+	}
+
+p.optin_form_empty:hover span{
+	background: rgba(0,0,0,1);
+}
+
+
+/* Tablets */
+@media (max-width: 991px) {
+
+.col-frame_holder{
+	padding-top: 20px;
+}
+
+}
+/* Phones */
+@media (max-width: 480px) {
+	.item.overlay{
+		padding-bottom: 0;
+
+	}
+
+	}

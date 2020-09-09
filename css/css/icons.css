@@ -1,0 +1,53 @@
+.kartra_list {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.kartra_list .kartra_list__item {
+  position: relative;
+  text-align: left;
+}
+
+.kartra_list .kartra_list__item.kartra_list--inline {
+  display: inline-block;
+}
+
+.kartra_list .kartra_list__item .kartra_icon--bordered-2px {
+  border: 2px solid;
+  color: rgba(255, 255, 255, 0.6);
+}
+
+.kartra_list .kartra_list__item .kartra_icon--circled {
+  border-radius: 50%;
+}
+
+.kartra_list .kartra_list__item.kartra_list__item--tinyicon {
+  padding-left: 30px;
+}
+
+.kartra_list .kartra_list__item.kartra_list__item--smallicon {
+  padding-left: 40px;
+}
+
+.kartra_list .kartra_list__item.kartra_list__item--mediumicon {
+  padding-left: 50px;
+}
+
+.kartra_list .kartra_list__item.kartra_list__item--largeicon {
+  padding-left: 60px;
+}
+
+.kartra_list .kartra_list__item.kartra_list__item--gianticon {
+  padding-left: 80px;
+}
+
+.kartra_list .kartra_headline.kartra_headline--h2 {
+  font-size: 18px;
+  font-weight: 400;
+  margin-top: 0px;
+  margin-bottom: 6px;
+  color: #fff;
+}
+
+/*# sourceMappingURL=icons.css.map */
